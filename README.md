@@ -4,7 +4,8 @@
 Este es un sistema desarrollado en Java que permite llevar un registro detallado de gastos por categoría, personal y en un período de tiempo específico. Facilita la gestión de gastos tanto para usuarios individuales como para equipos dentro de una organización.
 
 ## Modelo Conceptual de Datos
-![CajaChica drawio](https://github.com/erickzok/cajaContable/assets/121067321/ee77b4db-6a35-4e5d-8b9c-ecc6aee80474)
+![CajaChica drawio (1)](https://github.com/erickzok/cajaContable/assets/121067321/5855eb83-a824-4d5a-8d1f-d92289ad8fda)
+
 
 
 ## Funcionalidades
